@@ -1,2 +1,2 @@
-# Logica-de-Programacao
-Atividades de lógica para DIO
+# Atividades
+Atividades de lógica para o curso Lógica de Programação da DIO
